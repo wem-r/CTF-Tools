@@ -53,10 +53,15 @@ My personal list of CTF tools.
 - https://github.com/bwall/HashPump
 - http://www.openwall.com/john/
 - https://github.com/hellman/xortool
+- https://copy.sh/brainfuck/ : Encode/Decode [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+- [Try It Online](https://tio.run/#) : *online interpreters for a list of practical and recreational programming languages*
+
 
 ## Steganography
+- https://book.hacktricks.xyz/stego/stego-tricks
 - (Online) https://aperisolve.fr/ : *layer analysis on image. Uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings*
 - (Online) https://stegonline.georgeom.net/upload
+- https://en.wikipedia.org/wiki/Steganography_tools
 - https://github.com/quangntenemy/Steganabara
 - https://www.kitploit.com/2018/06/stego-toolkit-collection-of.html
 - (Audio) [Sonic-Visualizer](https://sonicvisualiser.org/)
@@ -66,7 +71,10 @@ My personal list of CTF tools.
 - (Audio) [mp3stego](https://www.petitcolas.net/steganography/mp3stego/)
 - (Audio) [WavePad](https://www.nch.com.au/wavepad/fr/index.html)
 - (Audio) [QSSTV](https://sourceforge.net/projects/qsstv/) - https://charlesreid1.com/wiki/Qsstv
+- (Audio) [MP3Stego](http://www.petitcolas.net/steganography/mp3stego/)
 - (Video) [FFmpeg](https://www.ffmpeg.org/download.html)
+- (PDF) [pdf-parser](https://www.kali.org/tools/pdf-parser/)
+- (PDF) [peepdf](https://kalilinuxtutorials.com/peepdf/) - https://eternal-todo.com/tools/peepdf-pdf-analysis-tool
 - [LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography)
 - https://exiftool.org/
   - (Online) http://exif.regex.info/exif.cgi
@@ -76,30 +84,19 @@ My personal list of CTF tools.
 - [bannsec/stegoVeritas](https://github.com/bannsec/stegoVeritas)
 - [zsteg](https://github.com/zed-0xff/zsteg)
 - [stegdetect](https://github.com/abeluck/stegdetect) (Unmaintained)
+- [jphide & jpseek](https://github.com/h3xx/jphs) - http://linux01.gwdg.de/~alatham/stego.html
+- [lukechampine/jsteg](https://github.com/lukechampine/jsteg)
+- [openstego](https://www.openstego.com/) - [syvaidya/openstego](https://github.com/syvaidya/openstego)
+- [OutGuess](https://www.kali.org/tools/outguess/) : *universal steganographic tool* - https://outguess.rbcafe.com/
+- [cedricbonhomme/Stegano](https://github.com/cedricbonhomme/Stegano) - https://sr.ht/~cedric/stegano/ : *pure Python Steganography module*
+- [livz/cloacked-pixel](https://github.com/livz/cloacked-pixel)
+- [stegsnow](https://www.kali.org/tools/stegsnow/) : *conceal messages in ASCII text by appending whitespaces to the end of lines*
+- [StegFS](http://sourceforge.net/projects/stegfs/)
+- [Twitter Secret Messages](https://holloway.nz/steg/)
+- [Deogol](https://hord.ca/projects/deogol/intro.html) : *HTML steganography too*
+- [Stegpy](https://github.com/Baldanos/Stegpy) : *steganalysis script writen in Python*
+- [StegCracker](https://github.com/Paradoxis/StegCracker) : *Steganography brute-force utility to uncover hidden data inside files*
 
-- https://k-lfa.info/tools-stegano/
-- https://en.wikipedia.org/wiki/Steganography_tools
-- https://0xrick.github.io/lists/stego/
-- https://copy.sh/brainfuck/
-- https://holloway.nz/steg/
-- https://tio.run/#
-- https://hord.ca/projects/deogol/intro.html
-- https://medium.com/ctf-writeups/stegonline-a-new-steganography-tool-b4eddb8f8f57
-- https://stegonline.georgeom.net/image
-- http://steghide.sourceforge.net/
-- https://0xrick.github.io/lists/stego/
-- https://github.com/DominicBreuker/stego-toolkit
-- https://github.com/Paradoxis/StegCracker
-- https://www.quipqiup.com/
-- https://www.youtube.com/watch?v=gxHY43274l4
-- https://book.hacktricks.xyz/stego/stego-tricks
-- https://stegonline.georgeom.net/upload
-- OpenStego - https://www.openstego.com & https://sourceforge.net/projects/openstego/
-OutGuess - http://www.outguess.org/download.php
-SilentEye - http://www.silenteye.org/download.html
-StegFS - http://sourceforge.net/projects/stegfs/
-pngcheck - http://www.libpng.org/pub/png/apps/pngcheck.html
-MP3Stego - http://www.petitcolas.net/steganography/mp3stego/
 
 
 
