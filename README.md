@@ -8,7 +8,6 @@ My personal list of CTF tools.
 - https://www.md5online.org/
 - https://decryptpassword.com/home/
 - [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
-- https://exiftool.org/
 - https://emn178.github.io/online-tools/index.html
 - https://www.freeformatter.com/javascript-beautifier.html
 - 
@@ -24,6 +23,9 @@ My personal list of CTF tools.
 ## unix/linux tool
 - [dd](https://linux.die.net/man/1/dd) : *convert and copy a file*
 - [strings](https://linux.die.net/man/1/strings) : *print the strings of printable characters in files*
+- [convert ](https://linux.die.net/man/1/convert) : *convert between image formats as well as resize an image, blur, crop, despeckle, dither, draw on, flip, join, re-sample, and much more*
+- [identify](https://linux.die.net/man/1/identify) : *describes the format and characteristics of one or more image files*
+- [stegbreak](https://linux.die.net/man/1/stegbreak) : *launches brute-force dictionary attacks on JPG image*
 
 ## Forensic
 - https://k-lfa.info/quelques-tools-forensics/
@@ -53,12 +55,28 @@ My personal list of CTF tools.
 - https://github.com/hellman/xortool
 
 ## Steganography
-- https://aperisolve.fr/
+- (Online) https://aperisolve.fr/ : *layer analysis on image. Uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings*
+- (Online) https://stegonline.georgeom.net/upload
 - https://github.com/quangntenemy/Steganabara
 - https://www.kitploit.com/2018/06/stego-toolkit-collection-of.html
-- https://www.youtube.com/watch?v=KUZVIBXfoeA
-- https://webscene.ir/challenges/Steganography
-- https://www.garykessler.net/library/steganography.html
+- (Audio) [Sonic-Visualizer](https://sonicvisualiser.org/)
+- (Audio) [danielcardeenas/AudioStego](https://github.com/danielcardeenas/AudioStego) - hideme
+- (Audio) [Audacity](https://www.audacityteam.org/)
+- (Audio) [spectrology](https://github.com/solusipse/spectrology)
+- (Audio) [mp3stego](https://www.petitcolas.net/steganography/mp3stego/)
+- (Audio) [WavePad](https://www.nch.com.au/wavepad/fr/index.html)
+- (Audio) [QSSTV](https://sourceforge.net/projects/qsstv/) - https://charlesreid1.com/wiki/Qsstv
+- (Video) [FFmpeg](https://www.ffmpeg.org/download.html)
+- [LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography)
+- https://exiftool.org/
+  - (Online) http://exif.regex.info/exif.cgi
+- [Steghide](http://steghide.sourceforge.net/)
+- [Stegsolve](https://www.aldeid.com/wiki/Stegsolve) - [Stegsolve.jar](Stegsolve)
+- [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html)
+- [bannsec/stegoVeritas](https://github.com/bannsec/stegoVeritas)
+- [zsteg](https://github.com/zed-0xff/zsteg)
+- [stegdetect](https://github.com/abeluck/stegdetect) (Unmaintained)
+
 - https://k-lfa.info/tools-stegano/
 - https://en.wikipedia.org/wiki/Steganography_tools
 - https://0xrick.github.io/lists/stego/
@@ -76,6 +94,16 @@ My personal list of CTF tools.
 - https://www.youtube.com/watch?v=gxHY43274l4
 - https://book.hacktricks.xyz/stego/stego-tricks
 - https://stegonline.georgeom.net/upload
+- OpenStego - https://www.openstego.com & https://sourceforge.net/projects/openstego/
+OutGuess - http://www.outguess.org/download.php
+SilentEye - http://www.silenteye.org/download.html
+StegFS - http://sourceforge.net/projects/stegfs/
+pngcheck - http://www.libpng.org/pub/png/apps/pngcheck.html
+MP3Stego - http://www.petitcolas.net/steganography/mp3stego/
+
+
+
+
 
 
 
