@@ -37,7 +37,7 @@ My personal list of CTF tools
 
 ## Steganography
 
-
+- https://aperisolve.fr/
 - https://github.com/quangntenemy/Steganabara
 - https://www.kitploit.com/2018/06/stego-toolkit-collection-of.html
 - https://www.youtube.com/watch?v=KUZVIBXfoeA
@@ -58,8 +58,8 @@ My personal list of CTF tools
 - https://github.com/Paradoxis/StegCracker
 - https://www.quipqiup.com/
 - https://www.youtube.com/watch?v=gxHY43274l4
-
-
+- https://book.hacktricks.xyz/stego/stego-tricks
+- https://stegonline.georgeom.net/upload
 
 
 
