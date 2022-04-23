@@ -62,7 +62,7 @@ My personal list of CTF tools.
 - (Online) https://aperisolve.fr/ : *layer analysis on image. Uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings*
 - (Online) https://stegonline.georgeom.net/upload
 - https://en.wikipedia.org/wiki/Steganography_tools
-- https://github.com/quangntenemy/Steganabara
+- [Steganabara](https://github.com/quangntenemy/Steganabara)
 - https://www.kitploit.com/2018/06/stego-toolkit-collection-of.html
 - (Audio) [Sonic-Visualizer](https://sonicvisualiser.org/)
 - (Audio) [danielcardeenas/AudioStego](https://github.com/danielcardeenas/AudioStego) - hideme
@@ -81,15 +81,15 @@ My personal list of CTF tools.
 - [Steghide](http://steghide.sourceforge.net/)
 - [Stegsolve](https://www.aldeid.com/wiki/Stegsolve) - [Stegsolve.jar](Stegsolve)
 - [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html)
-- [bannsec/stegoVeritas](https://github.com/bannsec/stegoVeritas)
+- [stegoVeritas](https://github.com/bannsec/stegoVeritas)
 - [zsteg](https://github.com/zed-0xff/zsteg)
 - [stegdetect](https://github.com/abeluck/stegdetect) (Unmaintained)
 - [jphide & jpseek](https://github.com/h3xx/jphs) - http://linux01.gwdg.de/~alatham/stego.html
-- [lukechampine/jsteg](https://github.com/lukechampine/jsteg)
-- [openstego](https://www.openstego.com/) - [syvaidya/openstego](https://github.com/syvaidya/openstego)
+- [jsteg](https://github.com/lukechampine/jsteg)
+- [OpenStego](https://www.openstego.com/) - [syvaidya/openstego](https://github.com/syvaidya/openstego)
 - [OutGuess](https://www.kali.org/tools/outguess/) : *universal steganographic tool* - https://outguess.rbcafe.com/
 - [cedricbonhomme/Stegano](https://github.com/cedricbonhomme/Stegano) - https://sr.ht/~cedric/stegano/ : *pure Python Steganography module*
-- [livz/cloacked-pixel](https://github.com/livz/cloacked-pixel)
+- [Cloacked-Pixel](https://github.com/livz/cloacked-pixel)
 - [stegsnow](https://www.kali.org/tools/stegsnow/) : *conceal messages in ASCII text by appending whitespaces to the end of lines*
 - [StegFS](http://sourceforge.net/projects/stegfs/)
 - [Twitter Secret Messages](https://holloway.nz/steg/)
