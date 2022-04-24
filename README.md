@@ -3,11 +3,8 @@ My personal list of CTF tools.
 
 ---
 
+#### Needs sorting
 - https://gchq.github.io/CyberChef/
-- https://md5hashing.net/
-- https://www.md5online.org/
-- https://decryptpassword.com/home/
-- [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
 - https://emn178.github.io/online-tools/index.html
 - https://www.freeformatter.com/javascript-beautifier.html
 - https://github.com/Gallopsled/pwntools
@@ -15,7 +12,9 @@ My personal list of CTF tools.
 - https://github.com/danielmiessler/SecLists
 - https://github.com/AlessandroZ/LaZagne
 
-## Other CTF-Tools List
+---
+
+## Other CTF-Tools Lists
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 - [devploit/CTF_OnlineTools](https://github.com/devploit/CTF_OnlineTools)
 - [JohnHammond/ctf-katana](https://github.com/JohnHammond/ctf-katana)
@@ -60,6 +59,10 @@ My personal list of CTF tools.
 - https://copy.sh/brainfuck/ : Encode/Decode [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 - [Try It Online](https://tio.run/#) : *online interpreters for a list of practical and recreational programming languages*
 - [Universal Leet Converter](http://www.robertecker.com/hp/research/leet-converter.php?lang=en)
+- https://md5hashing.net/
+- https://www.md5online.org/
+- https://decryptpassword.com/home/
+- [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
 
 ## Steganography
 - https://book.hacktricks.xyz/stego/stego-tricks
