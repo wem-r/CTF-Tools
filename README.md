@@ -59,12 +59,14 @@ My personal list of CTF tools.
 
 ## Steganography
 - https://book.hacktricks.xyz/stego/stego-tricks
+- https://en.wikipedia.org/wiki/Steganography_tools
+- https://www.kitploit.com/2018/06/stego-toolkit-collection-of.html
 - [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) : *Docker image with Collection of steganography tools*
 - (Online) https://aperisolve.fr/ : *layer analysis on image. Uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings*
 - (Online) https://stegonline.georgeom.net/upload
-- https://en.wikipedia.org/wiki/Steganography_tools
-- [Steganabara](https://github.com/quangntenemy/Steganabara)
-- https://www.kitploit.com/2018/06/stego-toolkit-collection-of.html
+- (Online)[Unicode Text Steganography](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
+- (Online) [npiet online](https://www.bertnase.de/npiet/npiet-execute.php) ([piet](https://www.dangermouse.net/esoteric/piet.html))
+- (Online) https://www.dcode.fr/
 - (Audio) [Sonic-Visualizer](https://sonicvisualiser.org/)
 - (Audio) [danielcardeenas/AudioStego](https://github.com/danielcardeenas/AudioStego) - hideme
 - (Audio) [Audacity](https://www.audacityteam.org/)
@@ -73,17 +75,22 @@ My personal list of CTF tools.
 - (Audio) [WavePad](https://www.nch.com.au/wavepad/fr/index.html)
 - (Audio) [QSSTV](https://sourceforge.net/projects/qsstv/) - https://charlesreid1.com/wiki/Qsstv
 - (Audio) [MP3Stego](http://www.petitcolas.net/steganography/mp3stego/)
+- (Audio) [Wavsteg](https://github.com/ragibson/Steganography#WavSteg)
 - (Video) [FFmpeg](https://www.ffmpeg.org/download.html)
 - (PDF) [pdf-parser](https://www.kali.org/tools/pdf-parser/)
 - (PDF) [peepdf](https://kalilinuxtutorials.com/peepdf/) - https://eternal-todo.com/tools/peepdf-pdf-analysis-tool
 - [LSB-Steganography](https://github.com/RobinDavid/LSB-Steganography)
 - https://exiftool.org/
   - (Online) http://exif.regex.info/exif.cgi
-- [Steghide](http://steghide.sourceforge.net/)
+- [Exiv2](http://www.exiv2.org/) [repo](https://github.com/Exiv2/exiv2)
+- [Steganabara](https://github.com/quangntenemy/Steganabara)
+- [Steghide](http://steghide.sourceforge.net/) - [repo](https://github.com/StefanoDeVuono/steghide)
 - [Stegsolve](https://www.aldeid.com/wiki/Stegsolve) - [Stegsolve.jar](Stegsolve)
+- [Foremost](https://www.kali.org/tools/foremost/) - [repo](https://github.com/korczis/foremost)
 - [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html)
 - [stegoVeritas](https://github.com/bannsec/stegoVeritas)
 - [zsteg](https://github.com/zed-0xff/zsteg)
+- [LSBSteg](https://github.com/ragibson/Steganography#LSBSteg)
 - [stegdetect](https://github.com/abeluck/stegdetect) (Unmaintained)
 - [jphide & jpseek](https://github.com/h3xx/jphs) - http://linux01.gwdg.de/~alatham/stego.html
 - [jsteg](https://github.com/lukechampine/jsteg)
