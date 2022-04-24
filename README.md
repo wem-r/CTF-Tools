@@ -105,13 +105,33 @@ My personal list of CTF tools.
 - [Stegpy](https://github.com/Baldanos/Stegpy) : *steganalysis script writen in Python*
 - [StegCracker](https://github.com/Paradoxis/StegCracker) : *Steganography brute-force utility to uncover hidden data inside files*
 
+## Networking
+- (Online) [A-Packets](https://apackets.com/) : *Online pcap file analyzer*
+- [Wireshark](https://www.wireshark.org/download.html) / [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
+- [OpenSSL](https://www.openssl.org/related/binaries.html)
+- [tcpdump](http://www.tcpdump.org/)
+- [netcat](http://netcat.sourceforge.net/)
+- [nmap](http://nmap.org/download.html)
 
+## Hex Editors
+Online:
+- https://hexed.it/
 
+Windows:
+- [HxD](http://mh-nexus.de/en/hxd/)
+- [010 Editor](https://www.sweetscape.com/010editor/)
 
+Linux:
+- [Bless](https://github.com/afrantzis/bless)
+- [wxHexEditor](http://www.wxhexeditor.org/download.php)
+- [ghex](https://doc.ubuntu-fr.org/ghex)
+- [HexPad]()
+- [okteta](https://apps.kde.org/okteta/)
+- [xxd](https://linux.die.net/man/1/xxd)
+- [Hexyl](https://github.com/sharkdp/hexyl)
+- [hexer](https://devel.ringlet.net/editors/hexer/) : *a Vi-like binary editor*
 
-
-
-
+## Reverse Engineering
 
 
 
