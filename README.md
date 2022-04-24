@@ -10,7 +10,10 @@ My personal list of CTF tools.
 - [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
 - https://emn178.github.io/online-tools/index.html
 - https://www.freeformatter.com/javascript-beautifier.html
-- 
+- https://github.com/Gallopsled/pwntools
+- https://gtfobins.github.io/
+- https://github.com/danielmiessler/SecLists
+- https://github.com/AlessandroZ/LaZagne
 
 ## Other CTF-Tools List
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools)
@@ -40,6 +43,7 @@ My personal list of CTF tools.
   - [autopsy](https://github.com/sleuthkit/autopsy) : *digital forensics platform and graphical interface to The Sleuth Kit®*
   - [scalpel](https://github.com/sleuthkit/scalpel) : *data carving tool*
 - [volatility](http://code.google.com/p/volatility/)
+- [FTK-Imager](https://accessdata.com/product-download/ftk-imager-version-4-5)
 
 ## Crypto
 - Rail Fence: https://crypto.interactive-maths.com/rail-fence-cipher.html
@@ -55,7 +59,7 @@ My personal list of CTF tools.
 - https://github.com/hellman/xortool
 - https://copy.sh/brainfuck/ : Encode/Decode [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 - [Try It Online](https://tio.run/#) : *online interpreters for a list of practical and recreational programming languages*
-
+- [Universal Leet Converter](http://www.robertecker.com/hp/research/leet-converter.php?lang=en)
 
 ## Steganography
 - https://book.hacktricks.xyz/stego/stego-tricks
@@ -107,14 +111,15 @@ My personal list of CTF tools.
 
 ## Networking
 - (Online) [A-Packets](https://apackets.com/) : *Online pcap file analyzer*
+- (Online) [Google Admin Toolbox](https://toolbox.googleapps.com/apps/main/) :  [dig](https://toolbox.googleapps.com/apps/dig/) / [Check MX](https://toolbox.googleapps.com/apps/checkmx/) / [HAR Analyzer](https://toolbox.googleapps.com/apps/har_analyzer/) / [Log Analyzer](https://toolbox.googleapps.com/apps/loganalyzer/) / [Browserinfo](https://toolbox.googleapps.com/apps/browserinfo/)
 - [Wireshark](https://www.wireshark.org/download.html) / [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
 - [OpenSSL](https://www.openssl.org/related/binaries.html)
 - [tcpdump](http://www.tcpdump.org/)
 - [netcat](http://netcat.sourceforge.net/)
 - [nmap](http://nmap.org/download.html)
+- 
 
 ## Hex Editors
-Online:
 - https://hexed.it/
 
 Windows:
@@ -133,5 +138,19 @@ Linux:
 
 ## Reverse Engineering
 
-
+- [GDB](http://www.gnu.org/software/gdb/download/) : *The GNU Project Debugger*
+- [IDA Pro](https://hex-rays.com/IDA-pro/)
+- [Immunity Debugger](https://www.immunityinc.com/products/debugger/) / [Download](http://debugger.immunityinc.com/)
+- [OllyDbg](http://www.ollydbg.de/)
+- [radare2](http://www.radare.org/y/?p=download) / [repo](https://github.com/radareorg/radare2)
+- [Hopper](http://www.hopperapp.com/download.html)
+- (unix/linux tool) [nm](https://linux.die.net/man/1/nm) : *list symbols from object files*
+- (unix/linux tool) [objdump](https://linux.die.net/man/1/objdump) : *display information from object files*
+- (unix/linux tool) [strace](https://linux.die.net/man/1/strace) : *trace system calls and signals*
+- (unix/linux tool) [ltrace](https://linux.die.net/man/1/ltrace) : *A library call tracer*
+- [ILSpy](https://github.com/icsharpcode/ILSpy) / ([old website](http://ilspy.net/))
+- [JD-GUI](http://jd.benow.ca/#jd-gui-overview)
+- [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) / ([old website](http://www.free-decompiler.com/flash/download.html))
+- [dex2jar](http://code.google.com/p/dex2jar/) / [repo](https://github.com/pxb1988/dex2jar)
+- [uncompyle2](https://github.com/wibiti/uncompyle2)
 
