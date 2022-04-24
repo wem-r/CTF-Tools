@@ -59,6 +59,7 @@ My personal list of CTF tools.
 
 ## Steganography
 - https://book.hacktricks.xyz/stego/stego-tricks
+- [stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) : *Docker image with Collection of steganography tools*
 - (Online) https://aperisolve.fr/ : *layer analysis on image. Uses zsteg, steghide, outguess, exiftool, binwalk, foremost and strings*
 - (Online) https://stegonline.georgeom.net/upload
 - https://en.wikipedia.org/wiki/Steganography_tools
