@@ -11,6 +11,9 @@ My personal list of CTF tools.
 - https://gtfobins.github.io/
 - https://github.com/danielmiessler/SecLists
 - https://github.com/AlessandroZ/LaZagne
+- https://app.any.run
+- https://ctftime.org/
+- https://github.com/ctfs
 
 ---
 
@@ -59,9 +62,14 @@ My personal list of CTF tools.
 - [dumpzilla](https://www.kali.org/tools/dumpzilla/) : *Analyze the Mozilla profile folder and dump everything except the DOM data (–All)*
 
 ## Crypto
+- (Online) https://www.dcode.fr/
+- (Online) http://multiencoder.com/
+- (Online) https://hashgenerator.de/
+- (Online) https://cryptii.com/ : *Modular conversion, encoding and encryption online*
+- (Online) http://rumkin.com/tools/cipher/ : *Cipher list*
 - Rail Fence: https://crypto.interactive-maths.com/rail-fence-cipher.html
 - Ceasar; https://www.xarg.org/tools/caesar-cipher/
-- Vigenère: https://f00l.de/hacking/vigenere.php / https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx
+- Vigenère: https://f00l.de/hacking/vigenere.php / https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx / [Vigenere Solver](https://www.guballa.de/vigenere-solver)
 - https://www.quipqiup.com/ (automated cryptogram solver)
 - http://pi.math.cornell.edu/~mec/Summer2008/lundell/lecture1.html Lecture 1: Shift Ciphers
 - https://www.apprendre-en-ligne.net/crypto/subst/
@@ -87,7 +95,8 @@ My personal list of CTF tools.
 - (Online) https://stegonline.georgeom.net/upload
 - (Online)[Unicode Text Steganography](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
 - (Online) [npiet online](https://www.bertnase.de/npiet/npiet-execute.php) ([piet](https://www.dangermouse.net/esoteric/piet.html))
-- (Online) https://www.dcode.fr/
+- (Online) https://futureboy.us/stegano/
+- (Online) https://incoherency.co.uk/image-steganography/
 - (Audio) [Sonic-Visualizer](https://sonicvisualiser.org/)
 - (Audio) [danielcardeenas/AudioStego](https://github.com/danielcardeenas/AudioStego) - hideme
 - (Audio) [Audacity](https://www.audacityteam.org/)
@@ -137,6 +146,8 @@ My personal list of CTF tools.
 - 
 
 ## Hex Editors
+
+Online
 - https://hexed.it/
 
 Windows:
@@ -155,6 +166,9 @@ Linux:
 
 ## Reverse Engineering
 
+- (Online) [disassembler.io](https://onlinedisassembler.com/) : *Online Disassembler*
+- (Online) http://www.javadecompilers.com/ : *.JAR and .Class to Java decompiler*
+- (Online) https://www.hybrid-analysis.com/ :  
 - [GDB](http://www.gnu.org/software/gdb/download/) : *The GNU Project Debugger*
 - [IDA Pro](https://hex-rays.com/IDA-pro/)
 - [Immunity Debugger](https://www.immunityinc.com/products/debugger/) / [Download](http://debugger.immunityinc.com/)
@@ -170,4 +184,17 @@ Linux:
 - [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler) / ([old website](http://www.free-decompiler.com/flash/download.html))
 - [dex2jar](http://code.google.com/p/dex2jar/) / [repo](https://github.com/pxb1988/dex2jar)
 - [uncompyle2](https://github.com/wibiti/uncompyle2)
+
+## Web
+- https://reqbin.com/ : *online API testing tool for REST and SOAP APIs*
+- [js-beautifier](https://beautifier.io/) : *Beautify, unpack or deobfuscate JavaScript and HTML, make JSON/JSONP readable, etc*
+- http://jsonviewer.stack.hu/
+- https://pentest-tools.com/
+- [TableConvert](https://tableconvert.com/) : *Convert CSV to [everything] Table*
+
+## OSINT
+- https://osintframework.com/ ([repo](https://github.com/lockfale/osint-framework))
+- https://inteltechniques.com/
+
+
 
