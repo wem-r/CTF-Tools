@@ -24,7 +24,6 @@ My personal list of CTF tools.
 
 ## unix/linux tool
 - [dd](https://linux.die.net/man/1/dd) : *convert and copy a file*
-- [strings](https://linux.die.net/man/1/strings) : *print the strings of printable characters in files*
 - [convert ](https://linux.die.net/man/1/convert) : *convert between image formats as well as resize an image, blur, crop, despeckle, dither, draw on, flip, join, re-sample, and much more*
 - [identify](https://linux.die.net/man/1/identify) : *describes the format and characteristics of one or more image files*
 - [stegbreak](https://linux.die.net/man/1/stegbreak) : *launches brute-force dictionary attacks on JPG image*
@@ -36,13 +35,28 @@ My personal list of CTF tools.
 - [File Identifier](http://mark0.net/soft-trid-e.html) : *identify file types from their binary signatures*
 - [binwalk](http://binwalk.org/)
 - [foremost](http://foremost.sourceforge.net/) : *Console program to recover files based on their headers, footers, and internal data structures*
-- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
+- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) 
 - [Computer Aided INvestigative Environment (CAINE)](http://www.caine-live.net/) Linux forensics live distribution
 - [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/download.php) ([repo](https://github.com/sleuthkit/sleuthkit))
   - [autopsy](https://github.com/sleuthkit/autopsy) : *digital forensics platform and graphical interface to The Sleuth Kit®*
   - [scalpel](https://github.com/sleuthkit/scalpel) : *data carving tool*
 - [volatility](http://code.google.com/p/volatility/)
 - [FTK-Imager](https://accessdata.com/product-download/ftk-imager-version-4-5)
+- [dd_rescue](https://www.kali.org/tools/ddrescue/) : *data recovery tool* [man page](https://linux.die.net/man/1/ddrescue)
+- [ntfsundelete](https://www.systutorials.com/docs/linux/man/8-ntfsundelete/)
+- [fatback](https://sourceforge.net/projects/fatback/)
+- (unix/linux tool) [photorec](https://linux.die.net/man/1/photorec) *Recover lost files from harddisk, digital camera and cdrom*
+- (unix/linux tool) [kpartx](https://linux.die.net/man/8/kpartx) *Create device maps from partition tables*
+- (unix/linux tool) [udisksctl](https://man.archlinux.org/man/udisksctl.1) : *Shows high-level information about disk drives and block devices.*
+- (unix/linux tool) [Mmls](https://wiki.sleuthkit.org/index.php?title=Mmls) : *displays the contents of a volume system (media management)* [man page](http://www.sleuthkit.org/sleuthkit/man/mmls.html)
+- (unix/linux tool) [fls](https://wiki.sleuthkit.org/index.php?title=Fls) : *lists the files and directory names in a file system* [man page](http://www.sleuthkit.org/sleuthkit/man/fls.html)
+- (unix/linux tool) [file](https://linux.die.net/man/1/file) : *determine file type*
+- [strings](https://linux.die.net/man/1/strings) : *print the strings of printable characters in files*
+- (unix/linux tool) []()
+- [chainbreaker](https://github.com/AppLeU0/chainbreaker) : *Mac OS X Keychain Forensic Tool*
+- [plistutil](https://github.com/strozfriedberg/plistutils) : *Python utilities related to plists (Apple Property List files)*
+- [MacInHash](https://github.com/JMagers/MacinHash) : *Convert MacOS plist password file to hash file for password crackers*
+- [dumpzilla](https://www.kali.org/tools/dumpzilla/) : *Analyze the Mozilla profile folder and dump everything except the DOM data (–All)*
 
 ## Crypto
 - Rail Fence: https://crypto.interactive-maths.com/rail-fence-cipher.html
