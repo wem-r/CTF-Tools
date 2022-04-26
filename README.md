@@ -24,6 +24,9 @@ My own list of CTF tools (ongoing WIP)
 - [devploit/CTF_OnlineTools](https://github.com/devploit/CTF_OnlineTools)
 - [JohnHammond/ctf-katana](https://github.com/JohnHammond/ctf-katana)
 
+## Recon
+- [Bandit-HaxUnit/haxunit](https://github.com/Bandit-HaxUnit/haxunit) : *combines multiple active and passive subdomain enumeration tools and port scanning tools with vulnerability discovery tools.*
+
 ## Cracking
 - [Example hashes & mode](https://hashcat.net/wiki/doku.php?id=example_hashes)
 - https://godbolt.org/ (Compiler Explorer)
