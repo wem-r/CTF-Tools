@@ -8,7 +8,6 @@ My own list of CTF tools (ongoing WIP)
 - https://emn178.github.io/online-tools/index.html
 - https://www.freeformatter.com/javascript-beautifier.html
 - https://github.com/Gallopsled/pwntools
-- https://gtfobins.github.io/
 - https://github.com/danielmiessler/SecLists
 - https://github.com/AlessandroZ/LaZagne
 - https://app.any.run
@@ -29,6 +28,11 @@ My own list of CTF tools (ongoing WIP)
 
 ## Dork
 - https://dorksearch.com/ : *Faster Google Dorking*
+
+## PrivEsc
+- [LinEnum](https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh)
+- [LinPEAS](https://github.com/Th3l5D/linux-privilege-escalation-awsome-script)
+- [GTFO-Bins](https://gtfobins.github.io/)
 
 ## Cracking
 - [Example hashes & mode](https://hashcat.net/wiki/doku.php?id=example_hashes)
