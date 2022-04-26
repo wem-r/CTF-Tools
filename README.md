@@ -1,5 +1,5 @@
 # CTF-Tools
-My personal list of CTF tools.
+My own list of CTF tools.
 
 ---
 
