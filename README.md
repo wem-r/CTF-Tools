@@ -27,6 +27,9 @@ My own list of CTF tools (ongoing WIP)
 ## Recon
 - [Bandit-HaxUnit/haxunit](https://github.com/Bandit-HaxUnit/haxunit) : *combines multiple active and passive subdomain enumeration tools and port scanning tools with vulnerability discovery tools.*
 
+## Dork
+- https://dorksearch.com/ : *Faster Google Dorking*
+
 ## Cracking
 - [Example hashes & mode](https://hashcat.net/wiki/doku.php?id=example_hashes)
 - https://godbolt.org/ (Compiler Explorer)
