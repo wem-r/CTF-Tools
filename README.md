@@ -178,7 +178,7 @@ Linux:
 - [hexer](https://devel.ringlet.net/editors/hexer/) : *a Vi-like binary editor*
 
 ## Reverse Engineering
-
+- (Online) https://book.hacktricks.xyz/reversing/reversing-tools-basic-methods
 - (Online) [disassembler.io](https://onlinedisassembler.com/) : *Online Disassembler*
 - (Online) http://www.javadecompilers.com/ : *.JAR and .Class to Java decompiler*
 - (Online) https://www.hybrid-analysis.com/ :  
