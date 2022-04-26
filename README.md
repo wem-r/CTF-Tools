@@ -13,6 +13,7 @@ My own list of CTF tools (ongoing WIP)
 - https://github.com/AlessandroZ/LaZagne
 - https://app.any.run
 - https://ctftime.org/
+- https://ctfsites.github.io/
 - https://github.com/ctfs
 - https://codepoints.net/
 
