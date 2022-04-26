@@ -1,5 +1,5 @@
 # CTF-Tools
-My own list of CTF tools.
+My own list of CTF tools (ongoing WIP)
 
 ---
 
@@ -14,6 +14,7 @@ My own list of CTF tools.
 - https://app.any.run
 - https://ctftime.org/
 - https://github.com/ctfs
+- https://codepoints.net/
 
 ---
 
@@ -23,7 +24,11 @@ My own list of CTF tools.
 - [JohnHammond/ctf-katana](https://github.com/JohnHammond/ctf-katana)
 
 ## Cracking
+- [Example hashes & mode](https://hashcat.net/wiki/doku.php?id=example_hashes)
 - https://godbolt.org/ (Compiler Explorer)
+- [Cisco Type 7 Password Cracker](https://www.ifm.net.nz/cookbooks/passwordcracker.html)
+- [Cisco Type 5 Password Cracker](https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html)
+- [androidpatternlock](https://github.com/sch3m4/androidpatternlock) : *A little Python tool to crack the Pattern Lock on Android devices*
 
 ## unix/linux tool
 - [dd](https://linux.die.net/man/1/dd) : *convert and copy a file*
@@ -60,6 +65,7 @@ My own list of CTF tools.
 - [plistutil](https://github.com/strozfriedberg/plistutils) : *Python utilities related to plists (Apple Property List files)*
 - [MacInHash](https://github.com/JMagers/MacinHash) : *Convert MacOS plist password file to hash file for password crackers*
 - [dumpzilla](https://www.kali.org/tools/dumpzilla/) : *Analyze the Mozilla profile folder and dump everything except the DOM data (–All)*
+- [ANSSI-FR/bmc-tools](https://github.com/ANSSI-FR/bmc-tools) : *RDP Bitmap Cache parser *
 
 ## Crypto
 - (Online) https://www.dcode.fr/
@@ -67,6 +73,8 @@ My own list of CTF tools.
 - (Online) https://hashgenerator.de/
 - (Online) https://cryptii.com/ : *Modular conversion, encoding and encryption online*
 - (Online) http://rumkin.com/tools/cipher/ : *Cipher list*
+- (Online) [run-length encoder/decoder (RLE)](https://eleif.net/rle.html)
+- [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) : *retreive private key from weak public key and/or uncipher data*
 - Rail Fence: https://crypto.interactive-maths.com/rail-fence-cipher.html
 - Ceasar; https://www.xarg.org/tools/caesar-cipher/
 - Vigenère: https://f00l.de/hacking/vigenere.php / https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx / [Vigenere Solver](https://www.guballa.de/vigenere-solver)
@@ -85,6 +93,8 @@ My own list of CTF tools.
 - https://www.md5online.org/
 - https://decryptpassword.com/home/
 - [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
+- [unode/firefox_decrypt](https://github.com/unode/firefox_decrypt) : *xtract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles*
+
 
 ## Steganography
 - https://book.hacktricks.xyz/stego/stego-tricks
@@ -138,12 +148,15 @@ My own list of CTF tools.
 ## Networking
 - (Online) [A-Packets](https://apackets.com/) : *Online pcap file analyzer*
 - (Online) [Google Admin Toolbox](https://toolbox.googleapps.com/apps/main/) :  [dig](https://toolbox.googleapps.com/apps/dig/) / [Check MX](https://toolbox.googleapps.com/apps/checkmx/) / [HAR Analyzer](https://toolbox.googleapps.com/apps/har_analyzer/) / [Log Analyzer](https://toolbox.googleapps.com/apps/loganalyzer/) / [Browserinfo](https://toolbox.googleapps.com/apps/browserinfo/)
+- (Online) [SMS PDU Decoder](https://www.diafaan.com/sms-tutorials/gsm-modem-tutorial/online-sms-pdu-decoder/)
 - [Wireshark](https://www.wireshark.org/download.html) / [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
 - [OpenSSL](https://www.openssl.org/related/binaries.html)
 - [tcpdump](http://www.tcpdump.org/)
 - [netcat](http://netcat.sourceforge.net/)
 - [nmap](http://nmap.org/download.html)
-- 
+- [jopohl/urh](https://github.com/jopohl/urh) : *Universal Radio Hacker: Investigate Wireless Protocols Like A Boss*
+- [miek/inspectrum](https://github.com/miek/inspectrum) : *Radio signal analyser*
+- [snmp0wn-md5](https://github.com/SalimHaddou/snmp0wn-md5) : *ash script to bruteforce snmpv3 authentication passwords using MD5 (usmHMACMD5AuthProtocol)*
 
 ## Hex Editors
 
@@ -191,10 +204,11 @@ Linux:
 - http://jsonviewer.stack.hu/
 - https://pentest-tools.com/
 - [TableConvert](https://tableconvert.com/) : *Convert CSV to [everything] Table*
+- https://jsconsole.com/ : **
 
 ## OSINT
 - https://osintframework.com/ ([repo](https://github.com/lockfale/osint-framework))
 - https://inteltechniques.com/
-
+- [ProtOSINT](https://github.com/pixelbubble/ProtOSINT) : *Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses*
 
 
