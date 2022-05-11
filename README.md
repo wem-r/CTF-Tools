@@ -15,6 +15,8 @@ My own list of CTF tools (ongoing WIP)
 - https://ctfsites.github.io/
 - https://github.com/ctfs
 - https://codepoints.net/
+- https://lolbas-project.github.io
+- https://wadcoms.github.io
 
 ---
 
