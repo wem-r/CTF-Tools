@@ -19,6 +19,8 @@ My own list of CTF tools (ongoing WIP)
 - Windows (LOLBAS) https://lolbas-project.github.io
 - AD (WADComs https://wadcoms.github.io
 - Living Off Trusted Sites https://lots-project.com/
+- https://theasciicode.com.ar/ascii-control-characters/start-of-header-ascii-code-1.html
+- https://unicodedecode.com/
 
 ---
 
