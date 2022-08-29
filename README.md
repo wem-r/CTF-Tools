@@ -229,4 +229,11 @@ Linux:
 - [ProtOSINT](https://github.com/pixelbubble/ProtOSINT) : *Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses*
 - [iknowwhatyoudownload.com](https://iknowwhatyoudownload.com/en/peer/)
 
-
+## PDF
+- https://amccormack.net/2012-01-22-anatomy-of-a-pdf-document.html
+- http://nicob.net/insomnihack_2010/epreuves_pdf.html
+  - http://nicob.net/insomnihack_2010/1.pdf
+  - Didier Stevens' Tools : https://blog.didierstevens.com/programs/pdf-tools/
+  - Origami : http://seclabs.org/origami/
+  - QPDF : http://qpdf.sourceforge.net/
+  
